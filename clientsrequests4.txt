@@ -1,0 +1,5 @@
+City Bike, Model 452X, blue, 5
+City Bike, Model 452X, black, 3
+City Bike, Model 472d, green, 1
+City Bike, Model 472d, red, 6
+City Bike, Model 472d, orange, 7

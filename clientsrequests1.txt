@@ -1,0 +1,5 @@
+City Bike, Model 3c07, blue, 6
+Road Bike, Model 452X, yellow, 3
+Road Bike, Model 472d, green, 5
+Mountain Bike, Model 472d, pink, 10
+City Bike, Model C125, red, 9
